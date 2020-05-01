@@ -143,6 +143,7 @@ public class TraveExpense extends Application {
             txtTaxifees.setText("0.00");
             txtRegFees.setText("0.00");
            txtNightlodFees.setText("0.00");
+           txtdaysTrip.setText("Trying");
         }
     }
     
